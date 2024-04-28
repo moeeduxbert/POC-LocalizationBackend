@@ -19,7 +19,7 @@ const ChangeLanguagePage = () => {
       </TouchableOpacity>
       <TouchableOpacity
         style={styles.button}
-        onPress={() => changeLanguage('esp')}>
+        onPress={() => changeLanguage('es')}>
         <Text style={styles.buttonText}>Español</Text>
       </TouchableOpacity>
       <TouchableOpacity
